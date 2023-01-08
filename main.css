@@ -5,6 +5,7 @@
 	font-size: 32px;
 	font-family: sans-serif;
 }
+
 .main {
 	background-color: rgb(144, 238, 149);
 	padding: 50px 100px;
@@ -13,4 +14,13 @@
 	font-family: Sans-Serif;
 	text-align: center;
 	color: #fff;
+}
+
+.footer {
+	background-color: slategray;
+	padding: 50px;
+	font-size: 32px;
+	color: #fff;
+	font-family: Sans-Serif;
+	text-align: center;
 }
